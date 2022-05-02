@@ -1,1 +1,0 @@
-﻿Get-ChildItem C:\ -Recurse | Select-Object -Property FullName, LastWriteTime, Length | Sort-Object -Property Length -Descending | Export-Csv D:\Temp\Arjay\Tools\GetFolderSize\disk20220330.csv

@@ -1,6 +1,0 @@
-C:\Users\905PP0871\AppData\Local\Microsoft\Terminal Server Client\Cache
-
-
-
-C:\Users\905PP0871\AppData\Local\Microsoft\Windows\Explorer
--TileCache

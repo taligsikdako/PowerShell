@@ -1,1 +1,0 @@
-(ls C:\Users\905PP3183\AppData\Local\Google -r | Measure-Object -property length -s).sum/1mb
